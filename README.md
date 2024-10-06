@@ -1,5 +1,10 @@
 This is a Bun test project.
 
+To install Bun
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
 To install dependencies:
 
 ```bash
